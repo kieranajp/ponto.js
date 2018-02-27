@@ -1,0 +1,4 @@
+var ponto = function () {
+    return '.';
+};
+
